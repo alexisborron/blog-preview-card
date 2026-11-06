@@ -106,7 +106,7 @@ img {
 
 .card {
   max-width: 24rem;
-  padding: 2rem;
+  padding: var(--space-300);
   background: var(--clr-white);
   border: 1px solid var(--clr-grey-950);
   border-radius: var(--radius-card);
